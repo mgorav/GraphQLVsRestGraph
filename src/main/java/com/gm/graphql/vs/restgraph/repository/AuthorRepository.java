@@ -1,6 +1,6 @@
-package com.gm.graphql.vs.jpaeclipselink.repository;
+package com.gm.graphql.vs.restgraph.repository;
 
-import com.gm.graphql.vs.jpaeclipselink.domain.Author;
+import com.gm.graphql.vs.restgraph.domain.Author;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

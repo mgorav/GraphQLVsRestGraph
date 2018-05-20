@@ -1,11 +1,11 @@
-package com.gm.graphql.vs.jpaeclipselink.resolver;
+package com.gm.graphql.vs.restgraph.resolver;
 
 import com.coxautodev.graphql.tools.GraphQLMutationResolver;
-import com.gm.graphql.vs.jpaeclipselink.domain.Author;
-import com.gm.graphql.vs.jpaeclipselink.domain.Book;
-import com.gm.graphql.vs.jpaeclipselink.repository.AuthorRepository;
-import com.gm.graphql.vs.jpaeclipselink.repository.BookRepository;
-import com.gm.graphql.vs.jpaeclipselink.exception.UnableToFindBookException;
+import com.gm.graphql.vs.restgraph.domain.Author;
+import com.gm.graphql.vs.restgraph.domain.Book;
+import com.gm.graphql.vs.restgraph.repository.AuthorRepository;
+import com.gm.graphql.vs.restgraph.repository.BookRepository;
+import com.gm.graphql.vs.restgraph.exception.UnableToFindBookException;
 import org.springframework.stereotype.Component;
 
 @Component

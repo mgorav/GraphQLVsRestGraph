@@ -1,4 +1,4 @@
-package com.gm.graphql.vs.jpaeclipselink.exception;
+package com.gm.graphql.vs.restgraph.exception;
 
 import graphql.ErrorType;
 import graphql.GraphQLError;

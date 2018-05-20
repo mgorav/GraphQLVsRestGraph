@@ -1,9 +1,9 @@
-package com.gm.graphql.vs.jpaeclipselink;
+package com.gm.graphql.vs.restgraph;
 
-import com.gm.graphql.vs.jpaeclipselink.domain.Author;
-import com.gm.graphql.vs.jpaeclipselink.domain.Book;
-import com.gm.graphql.vs.jpaeclipselink.repository.AuthorRepository;
-import com.gm.graphql.vs.jpaeclipselink.repository.BookRepository;
+import com.gm.graphql.vs.restgraph.domain.Author;
+import com.gm.graphql.vs.restgraph.domain.Book;
+import com.gm.graphql.vs.restgraph.repository.AuthorRepository;
+import com.gm.graphql.vs.restgraph.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;

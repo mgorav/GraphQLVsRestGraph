@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.ameizi</groupId>
-    <artifactId>graphql-example</artifactId>
+    <groupId>com.gm.graphql.vs.restgraph</groupId>
+    <artifactId>GraphQlVsRestGraph</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>GraphQL</name>
-    <description>Demo project for Spring Boot</description>
+    <name>GraphQlVsRestGraph</name>
+    <description>Graph QL Vs Rest Graph</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -50,14 +50,6 @@
             <artifactId>graphql-java-tools</artifactId>
             <version>4.3.0</version>
         </dependency>
-
-
-
-        <dependency>
-            <groupId>io.github.graphql-java</groupId>
-            <artifactId>graphql-java-annotations</artifactId>
-        </dependency>
-
 
         <dependency>
             <groupId>com.gm.shared</groupId>

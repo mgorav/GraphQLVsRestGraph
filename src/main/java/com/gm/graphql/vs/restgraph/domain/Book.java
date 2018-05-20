@@ -1,4 +1,4 @@
-package com.gm.graphql.vs.jpaeclipselink.domain;
+package com.gm.graphql.vs.restgraph.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;

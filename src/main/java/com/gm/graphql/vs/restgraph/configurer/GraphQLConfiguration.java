@@ -1,6 +1,6 @@
-package com.gm.graphql.vs.jpaeclipselink.configurer;
+package com.gm.graphql.vs.restgraph.configurer;
 
-import com.gm.graphql.vs.jpaeclipselink.exception.GraphQLErrorImpl;
+import com.gm.graphql.vs.restgraph.exception.GraphQLErrorImpl;
 import graphql.ExceptionWhileDataFetching;
 import graphql.GraphQLError;
 import graphql.servlet.GraphQLErrorHandler;

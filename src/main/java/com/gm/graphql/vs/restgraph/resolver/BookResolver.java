@@ -1,9 +1,9 @@
-package com.gm.graphql.vs.jpaeclipselink.resolver;
+package com.gm.graphql.vs.restgraph.resolver;
 
 import com.coxautodev.graphql.tools.GraphQLResolver;
-import com.gm.graphql.vs.jpaeclipselink.domain.Author;
-import com.gm.graphql.vs.jpaeclipselink.domain.Book;
-import com.gm.graphql.vs.jpaeclipselink.repository.AuthorRepository;
+import com.gm.graphql.vs.restgraph.domain.Author;
+import com.gm.graphql.vs.restgraph.domain.Book;
+import com.gm.graphql.vs.restgraph.repository.AuthorRepository;
 import org.springframework.stereotype.Component;
 
 @Component
