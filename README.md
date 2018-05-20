@@ -1,1 +1,1 @@
-## Application compare GraphQL vs jpa-eclipselink
+## Application compare GraphQL vs RestGraph
