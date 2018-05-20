@@ -45,7 +45,7 @@ gm:
           driver-class-name:  org.apache.derby.jdbc.EmbeddedDriver
           username: app
           password: ""
-          url: jdbc:derby:jdbc:derby:derby-home/application;
+          url: jdbc:derby:jdbc:derby:derby-home/bookmgmt;
           max-active: 20
           min-idle: 10
           initial-size: 20
