@@ -1,0 +1,1 @@
+## Application compare GraphQL vs jpa-eclipselink
