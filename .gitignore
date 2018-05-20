@@ -22,3 +22,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/graphql.schema.json
+/graphql.config.json
+.DS_Store
+derby.log
